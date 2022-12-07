@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Animals</string>
+
+    <!--Animals names and types-->
+    <string name="cat">CAT</string>
+    <string name="cat_type">MAMMALS</string>
+    <string name="lion">LION</string>
+    <string name="lion_type">MAMMALS</string>
+    <string name="crocodile">CROCODILE</string>
+    <string name="crocodile_type">REPTILES</string>
+
+    <!-- Data Source -->
+    <string name="book1">I am strong.</string>
+    <string name="book2">I believe in myself.</string>
+    <string name="book3">Each day is a new opportunity to grow and be a better version of myself.</string>
+    <string name="book4">Every challenge in my life is an opportunity to learn from.</string>
+    <string name="book5">I have so much to be grateful for.</string>
+    <string name="book6">Good things are always coming into my life.</string>
+    <string name="book7">New opportunities await me at every turn.</string>
+    <string name="book8">I have the courage to follow my heart.</string>
+    <string name="book9">Things will unfold at precisely the right time.</string>
+    <string name="book10">I will be present in all the moments that this day brings.</string>
+</resources>
